@@ -1,0 +1,19 @@
+{
+  "teachers": [
+    {
+      "username": "mrsmith",
+      "display_name": "Mr. Smith",
+      "password_sha256": "7bc98d82600373fe8f41b02eecacc6d594d382106fbcc02f476582e157983aaf"
+    },
+    {
+      "username": "msjones",
+      "display_name": "Ms. Jones",
+      "password_sha256": "96774a98e8aaf3d662b4dec5c1ea28dc5350ffe9be73cfbc55f31a194e6af51a"
+    },
+    {
+      "username": "mrlee",
+      "display_name": "Mr. Lee",
+      "password_sha256": "a5e4cc5c957782ff1dabb56615b60cfa08006f24cafe13ae8bf5c58cec55ece3"
+    }
+  ]
+}
